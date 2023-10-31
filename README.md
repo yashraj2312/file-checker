@@ -1,0 +1,1 @@
+## Basic app to handle file upload with validations and also to check user geolocation in JS
